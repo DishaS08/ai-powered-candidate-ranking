@@ -1,0 +1,1083 @@
+[
+  {
+    "id": 20,
+    "name": "Vivaan Khanna",
+    "email": "vivaan.khanna@email.com",
+    "phone": "+91-22708-95481",
+    "years_experience": 16,
+    "education": "Bachelor of Science in Chemical Engineering",
+    "certifications": [
+      "Zero Waste Certification",
+      "Six Sigma Green Belt",
+      "Lean Manufacturing Certification",
+      "Certified Recycling Professional (CRP)"
+    ],
+    "skills": [
+      "Team Leadership",
+      "Crisis Management",
+      "Performance Analytics",
+      "Sustainability",
+      "Budget Management",
+      "Quality Control",
+      "Process Optimization"
+    ],
+    "evaluation": {
+      "crisis_management_score": 100,
+      "sustainability_score": 100,
+      "team_motivation_score": 73.6,
+      "total_score": 91.2
+    }
+  },
+  {
+    "id": 12,
+    "name": "Diya Shetty",
+    "email": "diya.shetty@email.com",
+    "phone": "+91-82647-32931",
+    "years_experience": 21,
+    "education": "Bachelor of Science in Chemical Engineering",
+    "certifications": [
+      "LEED Green Associate",
+      "Six Sigma Green Belt"
+    ],
+    "skills": [
+      "Crisis Management",
+      "Safety Management",
+      "Sustainability",
+      "Conflict Resolution",
+      "Process Optimization"
+    ],
+    "evaluation": {
+      "crisis_management_score": 87.89,
+      "sustainability_score": 86.06,
+      "team_motivation_score": 91.66,
+      "total_score": 88.54
+    }
+  },
+  {
+    "id": 22,
+    "name": "Krishna Kamath",
+    "email": "krishna.kamath@email.com",
+    "phone": "+91-91591-00524",
+    "years_experience": 9,
+    "education": "Bachelor of Science in Industrial Engineering",
+    "certifications": [
+      "Project Management Professional (PMP)",
+      "Six Sigma Green Belt",
+      "ISO 14001 Environmental Management"
+    ],
+    "skills": [
+      "Quality Control",
+      "Regulatory Compliance",
+      "Budget Management",
+      "Conflict Resolution"
+    ],
+    "evaluation": {
+      "crisis_management_score": 93.51,
+      "sustainability_score": 80.07,
+      "team_motivation_score": 90.02,
+      "total_score": 87.87
+    }
+  },
+  {
+    "id": 32,
+    "name": "Atharva Gandhi",
+    "email": "atharva.gandhi@email.com",
+    "phone": "+91-88199-21641",
+    "years_experience": 18,
+    "education": "Bachelor of Science in Industrial Engineering",
+    "certifications": [
+      "Lean Manufacturing Certification",
+      "LEED Green Associate",
+      "Certified Recycling Professional (CRP)"
+    ],
+    "skills": [
+      "Safety Management",
+      "Sustainability",
+      "Waste Reduction",
+      "Performance Analytics",
+      "Budget Management"
+    ],
+    "evaluation": {
+      "crisis_management_score": 64.48,
+      "sustainability_score": 100,
+      "team_motivation_score": 99.03,
+      "total_score": 87.84
+    }
+  },
+  {
+    "id": 17,
+    "name": "Siddharth Pillai",
+    "email": "siddharth.pillai@email.com",
+    "phone": "+91-23712-75267",
+    "years_experience": 23,
+    "education": "Bachelor of Science in Chemical Engineering",
+    "certifications": [
+      "LEED Green Associate",
+      "Certified Recycling Professional (CRP)",
+      "Zero Waste Certification"
+    ],
+    "skills": [
+      "Team Leadership",
+      "Budget Management",
+      "Quality Control",
+      "Process Optimization"
+    ],
+    "evaluation": {
+      "crisis_management_score": 90.46,
+      "sustainability_score": 84.07,
+      "team_motivation_score": 87.17,
+      "total_score": 87.23
+    }
+  },
+  {
+    "id": 3,
+    "name": "Diya Mishra",
+    "email": "diya.mishra@email.com",
+    "phone": "+91-15493-29138",
+    "years_experience": 5,
+    "education": "Bachelor of Science in Chemical Engineering",
+    "certifications": [
+      "Project Management Professional (PMP)",
+      "OSHA Safety Certification",
+      "Zero Waste Certification",
+      "Six Sigma Green Belt"
+    ],
+    "skills": [
+      "Regulatory Compliance",
+      "Sustainability",
+      "Budget Management",
+      "Quality Control",
+      "Performance Analytics"
+    ],
+    "evaluation": {
+      "crisis_management_score": 100,
+      "sustainability_score": 70.96,
+      "team_motivation_score": 90.57,
+      "total_score": 87.18
+    }
+  },
+  {
+    "id": 23,
+    "name": "Kiara Kamath",
+    "email": "kiara.kamath@email.com",
+    "phone": "+91-67351-95525",
+    "years_experience": 22,
+    "education": "Bachelor of Science in Industrial Engineering",
+    "certifications": [
+      "Project Management Professional (PMP)",
+      "LEED Green Associate"
+    ],
+    "skills": [
+      "Team Leadership",
+      "Process Optimization",
+      "Quality Control",
+      "Recycling Technology",
+      "Waste Reduction",
+      "Sustainability"
+    ],
+    "evaluation": {
+      "crisis_management_score": 88.88,
+      "sustainability_score": 81.73,
+      "team_motivation_score": 89.55,
+      "total_score": 86.72
+    }
+  },
+  {
+    "id": 31,
+    "name": "Yuvraj Ghosh",
+    "email": "yuvraj.ghosh@email.com",
+    "phone": "+91-82001-41257",
+    "years_experience": 12,
+    "education": "Master of Business Administration (MBA)",
+    "certifications": [
+      "Project Management Professional (PMP)",
+      "Lean Manufacturing Certification",
+      "LEED Green Associate"
+    ],
+    "skills": [
+      "Process Optimization",
+      "Conflict Resolution",
+      "Regulatory Compliance",
+      "Recycling Technology",
+      "Quality Control"
+    ],
+    "evaluation": {
+      "crisis_management_score": 94.99,
+      "sustainability_score": 71.99,
+      "team_motivation_score": 90.6,
+      "total_score": 85.86
+    }
+  },
+  {
+    "id": 36,
+    "name": "Vihaan Rathore",
+    "email": "vihaan.rathore@email.com",
+    "phone": "+91-36779-50719",
+    "years_experience": 2,
+    "education": "Bachelor of Science in Business Administration",
+    "certifications": [
+      "Lean Manufacturing Certification",
+      "ISO 14001 Environmental Management"
+    ],
+    "skills": [
+      "Crisis Management",
+      "Budget Management",
+      "Waste Reduction",
+      "Process Optimization",
+      "Team Leadership"
+    ],
+    "evaluation": {
+      "crisis_management_score": 84.44,
+      "sustainability_score": 84.01,
+      "team_motivation_score": 83.72,
+      "total_score": 84.06
+    }
+  },
+  {
+    "id": 4,
+    "name": "Varun Jain",
+    "email": "varun.jain@email.com",
+    "phone": "+91-59635-55158",
+    "years_experience": 21,
+    "education": "Master of Business Administration (MBA)",
+    "certifications": [
+      "Project Management Professional (PMP)",
+      "Six Sigma Green Belt",
+      "ISO 14001 Environmental Management",
+      "Zero Waste Certification"
+    ],
+    "skills": [
+      "Waste Reduction",
+      "Quality Control",
+      "Sustainability",
+      "Budget Management",
+      "Recycling Technology",
+      "Team Leadership",
+      "Process Optimization"
+    ],
+    "evaluation": {
+      "crisis_management_score": 99.39,
+      "sustainability_score": 62.6,
+      "team_motivation_score": 89.79,
+      "total_score": 83.93
+    }
+  },
+  {
+    "id": 15,
+    "name": "Anika Shah",
+    "email": "anika.shah@email.com",
+    "phone": "+91-20274-81306",
+    "years_experience": 16,
+    "education": "Bachelor of Science in Environmental Engineering",
+    "certifications": [
+      "ISO 14001 Environmental Management",
+      "Lean Manufacturing Certification"
+    ],
+    "skills": [
+      "Conflict Resolution",
+      "Performance Analytics",
+      "Safety Management",
+      "Regulatory Compliance",
+      "Sustainability",
+      "Waste Reduction",
+      "Quality Control"
+    ],
+    "evaluation": {
+      "crisis_management_score": 80.89,
+      "sustainability_score": 90.3,
+      "team_motivation_score": 78.81,
+      "total_score": 83.33
+    }
+  },
+  {
+    "id": 30,
+    "name": "Ayaan Reddy",
+    "email": "ayaan.reddy@email.com",
+    "phone": "+91-47414-49424",
+    "years_experience": 14,
+    "education": "Master of Business Administration (MBA)",
+    "certifications": [
+      "OSHA Safety Certification",
+      "Certified Recycling Professional (CRP)"
+    ],
+    "skills": [
+      "Sustainability",
+      "Team Leadership",
+      "Safety Management",
+      "Process Optimization"
+    ],
+    "evaluation": {
+      "crisis_management_score": 82.08,
+      "sustainability_score": 93.25,
+      "team_motivation_score": 73.71,
+      "total_score": 83.01
+    }
+  },
+  {
+    "id": 2,
+    "name": "Amit Bhatia",
+    "email": "amit.bhatia@email.com",
+    "phone": "+91-80115-00629",
+    "years_experience": 2,
+    "education": "Bachelor of Science in Chemical Engineering",
+    "certifications": [
+      "Lean Manufacturing Certification",
+      "LEED Green Associate"
+    ],
+    "skills": [
+      "Quality Control",
+      "Waste Reduction",
+      "Conflict Resolution",
+      "Recycling Technology",
+      "Crisis Management",
+      "Regulatory Compliance"
+    ],
+    "evaluation": {
+      "crisis_management_score": 87.45,
+      "sustainability_score": 84.66,
+      "team_motivation_score": 75.2,
+      "total_score": 82.44
+    }
+  },
+  {
+    "id": 27,
+    "name": "Anika Reddy",
+    "email": "anika.reddy@email.com",
+    "phone": "+91-29641-89703",
+    "years_experience": 24,
+    "education": "Master of Science in Environmental Management",
+    "certifications": [
+      "ISO 14001 Environmental Management",
+      "Zero Waste Certification",
+      "Project Management Professional (PMP)"
+    ],
+    "skills": [
+      "Performance Analytics",
+      "Team Leadership",
+      "Waste Reduction",
+      "Safety Management",
+      "Crisis Management",
+      "Recycling Technology",
+      "Process Optimization",
+      "Budget Management"
+    ],
+    "evaluation": {
+      "crisis_management_score": 80.6,
+      "sustainability_score": 100,
+      "team_motivation_score": 64.53,
+      "total_score": 81.71
+    }
+  },
+  {
+    "id": 33,
+    "name": "Vivaan Krishnan",
+    "email": "vivaan.krishnan@email.com",
+    "phone": "+91-76214-81320",
+    "years_experience": 15,
+    "education": "Bachelor of Science in Industrial Engineering",
+    "certifications": [
+      "Six Sigma Green Belt",
+      "Project Management Professional (PMP)",
+      "Zero Waste Certification",
+      "ISO 14001 Environmental Management"
+    ],
+    "skills": [
+      "Conflict Resolution",
+      "Team Leadership",
+      "Quality Control",
+      "Safety Management"
+    ],
+    "evaluation": {
+      "crisis_management_score": 95.03,
+      "sustainability_score": 79.15,
+      "team_motivation_score": 70.48,
+      "total_score": 81.55
+    }
+  },
+  {
+    "id": 40,
+    "name": "Kavya Reddy",
+    "email": "kavya.reddy@email.com",
+    "phone": "+91-58447-61249",
+    "years_experience": 6,
+    "education": "Master of Science in Sustainability",
+    "certifications": [
+      "Zero Waste Certification",
+      "Lean Manufacturing Certification",
+      "Six Sigma Green Belt"
+    ],
+    "skills": [
+      "Performance Analytics",
+      "Waste Reduction",
+      "Regulatory Compliance",
+      "Budget Management",
+      "Crisis Management",
+      "Recycling Technology",
+      "Sustainability",
+      "Safety Management"
+    ],
+    "evaluation": {
+      "crisis_management_score": 87.14,
+      "sustainability_score": 84.76,
+      "team_motivation_score": 71.95,
+      "total_score": 81.28
+    }
+  },
+  {
+    "id": 37,
+    "name": "Saanvi Yadav",
+    "email": "saanvi.yadav@email.com",
+    "phone": "+91-14699-65880",
+    "years_experience": 22,
+    "education": "Master of Science in Sustainability",
+    "certifications": [
+      "Six Sigma Green Belt",
+      "Zero Waste Certification"
+    ],
+    "skills": [
+      "Crisis Management",
+      "Sustainability",
+      "Budget Management",
+      "Performance Analytics",
+      "Quality Control",
+      "Waste Reduction",
+      "Team Leadership"
+    ],
+    "evaluation": {
+      "crisis_management_score": 62.33,
+      "sustainability_score": 100,
+      "team_motivation_score": 81.49,
+      "total_score": 81.27
+    }
+  },
+  {
+    "id": 26,
+    "name": "Pari Rathore",
+    "email": "pari.rathore@email.com",
+    "phone": "+91-86278-42622",
+    "years_experience": 21,
+    "education": "Master of Science in Environmental Management",
+    "certifications": [
+      "Lean Manufacturing Certification",
+      "OSHA Safety Certification"
+    ],
+    "skills": [
+      "Sustainability",
+      "Safety Management",
+      "Waste Reduction",
+      "Quality Control",
+      "Conflict Resolution",
+      "Recycling Technology",
+      "Regulatory Compliance"
+    ],
+    "evaluation": {
+      "crisis_management_score": 75.53,
+      "sustainability_score": 91.43,
+      "team_motivation_score": 76.4,
+      "total_score": 81.12
+    }
+  },
+  {
+    "id": 11,
+    "name": "Amit Joshi",
+    "email": "amit.joshi@email.com",
+    "phone": "+91-55870-84308",
+    "years_experience": 5,
+    "education": "Master of Science in Sustainability",
+    "certifications": [
+      "OSHA Safety Certification",
+      "Lean Manufacturing Certification",
+      "Six Sigma Green Belt",
+      "Project Management Professional (PMP)"
+    ],
+    "skills": [
+      "Recycling Technology",
+      "Conflict Resolution",
+      "Regulatory Compliance",
+      "Performance Analytics",
+      "Safety Management",
+      "Budget Management",
+      "Waste Reduction",
+      "Process Optimization"
+    ],
+    "evaluation": {
+      "crisis_management_score": 72.02,
+      "sustainability_score": 76.19,
+      "team_motivation_score": 93.6,
+      "total_score": 80.6
+    }
+  },
+  {
+    "id": 7,
+    "name": "Riya Mukhopadhyay",
+    "email": "riya.mukhopadhyay@email.com",
+    "phone": "+91-84891-60705",
+    "years_experience": 4,
+    "education": "Bachelor of Science in Chemical Engineering",
+    "certifications": [
+      "Project Management Professional (PMP)",
+      "LEED Green Associate",
+      "ISO 14001 Environmental Management"
+    ],
+    "skills": [
+      "Team Leadership",
+      "Sustainability",
+      "Budget Management",
+      "Process Optimization",
+      "Regulatory Compliance",
+      "Recycling Technology"
+    ],
+    "evaluation": {
+      "crisis_management_score": 79.98,
+      "sustainability_score": 77.56,
+      "team_motivation_score": 83.92,
+      "total_score": 80.49
+    }
+  },
+  {
+    "id": 24,
+    "name": "Aarohi Shah",
+    "email": "aarohi.shah@email.com",
+    "phone": "+91-20264-40889",
+    "years_experience": 13,
+    "education": "Bachelor of Science in Chemical Engineering",
+    "certifications": [
+      "OSHA Safety Certification",
+      "Zero Waste Certification",
+      "Six Sigma Green Belt"
+    ],
+    "skills": [
+      "Safety Management",
+      "Waste Reduction",
+      "Sustainability",
+      "Budget Management",
+      "Performance Analytics"
+    ],
+    "evaluation": {
+      "crisis_management_score": 87.04,
+      "sustainability_score": 82.78,
+      "team_motivation_score": 71.32,
+      "total_score": 80.38
+    }
+  },
+  {
+    "id": 19,
+    "name": "Priya Malhotra",
+    "email": "priya.malhotra@email.com",
+    "phone": "+91-86153-96394",
+    "years_experience": 7,
+    "education": "Bachelor of Science in Industrial Engineering",
+    "certifications": [
+      "LEED Green Associate",
+      "Lean Manufacturing Certification"
+    ],
+    "skills": [
+      "Team Leadership",
+      "Process Optimization",
+      "Performance Analytics",
+      "Recycling Technology",
+      "Sustainability",
+      "Crisis Management",
+      "Conflict Resolution"
+    ],
+    "evaluation": {
+      "crisis_management_score": 94.35,
+      "sustainability_score": 76.25,
+      "team_motivation_score": 69.5,
+      "total_score": 80.03
+    }
+  },
+  {
+    "id": 1,
+    "name": "Raghav Das",
+    "email": "raghav.das@email.com",
+    "phone": "+91-90255-32094",
+    "years_experience": 19,
+    "education": "Master of Science in Environmental Management",
+    "certifications": [
+      "Certified Recycling Professional (CRP)",
+      "Project Management Professional (PMP)"
+    ],
+    "skills": [
+      "Regulatory Compliance",
+      "Waste Reduction",
+      "Sustainability",
+      "Team Leadership",
+      "Quality Control",
+      "Crisis Management",
+      "Process Optimization",
+      "Performance Analytics"
+    ],
+    "evaluation": {
+      "crisis_management_score": 81.19,
+      "sustainability_score": 81.83,
+      "team_motivation_score": 76,
+      "total_score": 79.67
+    }
+  },
+  {
+    "id": 16,
+    "name": "Anjali Mukhopadhyay",
+    "email": "anjali.mukhopadhyay@email.com",
+    "phone": "+91-71123-27764",
+    "years_experience": 14,
+    "education": "Bachelor of Science in Environmental Engineering",
+    "certifications": [
+      "Project Management Professional (PMP)",
+      "Certified Recycling Professional (CRP)",
+      "ISO 14001 Environmental Management",
+      "OSHA Safety Certification"
+    ],
+    "skills": [
+      "Regulatory Compliance",
+      "Safety Management",
+      "Recycling Technology",
+      "Process Optimization",
+      "Conflict Resolution",
+      "Sustainability",
+      "Waste Reduction",
+      "Team Leadership"
+    ],
+    "evaluation": {
+      "crisis_management_score": 68.94,
+      "sustainability_score": 80.49,
+      "team_motivation_score": 88.66,
+      "total_score": 79.36
+    }
+  },
+  {
+    "id": 21,
+    "name": "Aayush Deshpande",
+    "email": "aayush.deshpande@email.com",
+    "phone": "+91-42146-02043",
+    "years_experience": 15,
+    "education": "Master of Science in Sustainability",
+    "certifications": [
+      "Zero Waste Certification",
+      "LEED Green Associate",
+      "ISO 14001 Environmental Management"
+    ],
+    "skills": [
+      "Sustainability",
+      "Performance Analytics",
+      "Team Leadership",
+      "Safety Management",
+      "Recycling Technology",
+      "Crisis Management",
+      "Conflict Resolution"
+    ],
+    "evaluation": {
+      "crisis_management_score": 85.14,
+      "sustainability_score": 86.4,
+      "team_motivation_score": 66.45,
+      "total_score": 79.33
+    }
+  },
+  {
+    "id": 28,
+    "name": "Sneha Bhatia",
+    "email": "sneha.bhatia@email.com",
+    "phone": "+91-11324-61670",
+    "years_experience": 2,
+    "education": "Bachelor of Science in Business Administration",
+    "certifications": [
+      "Zero Waste Certification",
+      "OSHA Safety Certification"
+    ],
+    "skills": [
+      "Safety Management",
+      "Recycling Technology",
+      "Quality Control",
+      "Performance Analytics",
+      "Process Optimization",
+      "Team Leadership"
+    ],
+    "evaluation": {
+      "crisis_management_score": 73.54,
+      "sustainability_score": 68.99,
+      "team_motivation_score": 94.75,
+      "total_score": 79.09
+    }
+  },
+  {
+    "id": 39,
+    "name": "Arjun Agarwal",
+    "email": "arjun.agarwal@email.com",
+    "phone": "+91-34302-86292",
+    "years_experience": 5,
+    "education": "Master of Science in Environmental Management",
+    "certifications": [
+      "LEED Green Associate",
+      "ISO 14001 Environmental Management",
+      "Lean Manufacturing Certification",
+      "Certified Recycling Professional (CRP)"
+    ],
+    "skills": [
+      "Regulatory Compliance",
+      "Team Leadership",
+      "Recycling Technology",
+      "Sustainability",
+      "Performance Analytics",
+      "Crisis Management",
+      "Waste Reduction"
+    ],
+    "evaluation": {
+      "crisis_management_score": 70.16,
+      "sustainability_score": 72.5,
+      "team_motivation_score": 90.79,
+      "total_score": 77.82
+    }
+  },
+  {
+    "id": 5,
+    "name": "Pranav Nair",
+    "email": "pranav.nair@email.com",
+    "phone": "+91-88466-56132",
+    "years_experience": 5,
+    "education": "Master of Business Administration (MBA)",
+    "certifications": [
+      "Six Sigma Green Belt",
+      "Zero Waste Certification",
+      "ISO 14001 Environmental Management"
+    ],
+    "skills": [
+      "Safety Management",
+      "Process Optimization",
+      "Quality Control",
+      "Budget Management",
+      "Waste Reduction"
+    ],
+    "evaluation": {
+      "crisis_management_score": 69.69,
+      "sustainability_score": 90.79,
+      "team_motivation_score": 72.78,
+      "total_score": 77.75
+    }
+  },
+  {
+    "id": 29,
+    "name": "Megha Nair",
+    "email": "megha.nair@email.com",
+    "phone": "+91-48151-91683",
+    "years_experience": 22,
+    "education": "Master of Business Administration (MBA)",
+    "certifications": [
+      "Six Sigma Green Belt",
+      "Certified Recycling Professional (CRP)",
+      "Lean Manufacturing Certification"
+    ],
+    "skills": [
+      "Waste Reduction",
+      "Crisis Management",
+      "Regulatory Compliance",
+      "Process Optimization"
+    ],
+    "evaluation": {
+      "crisis_management_score": 81.95,
+      "sustainability_score": 84.33,
+      "team_motivation_score": 66.52,
+      "total_score": 77.6
+    }
+  },
+  {
+    "id": 8,
+    "name": "Raghav Pillai",
+    "email": "raghav.pillai@email.com",
+    "phone": "+91-01315-68116",
+    "years_experience": 25,
+    "education": "Bachelor of Science in Mechanical Engineering",
+    "certifications": [
+      "Six Sigma Green Belt",
+      "Certified Recycling Professional (CRP)"
+    ],
+    "skills": [
+      "Quality Control",
+      "Regulatory Compliance",
+      "Performance Analytics",
+      "Crisis Management",
+      "Conflict Resolution",
+      "Waste Reduction"
+    ],
+    "evaluation": {
+      "crisis_management_score": 75.36,
+      "sustainability_score": 83.28,
+      "team_motivation_score": 73.91,
+      "total_score": 77.52
+    }
+  },
+  {
+    "id": 38,
+    "name": "Karan Reddy",
+    "email": "karan.reddy@email.com",
+    "phone": "+91-15538-43451",
+    "years_experience": 8,
+    "education": "Master of Business Administration (MBA)",
+    "certifications": [
+      "Zero Waste Certification",
+      "Project Management Professional (PMP)",
+      "LEED Green Associate"
+    ],
+    "skills": [
+      "Regulatory Compliance",
+      "Crisis Management",
+      "Quality Control",
+      "Process Optimization",
+      "Conflict Resolution",
+      "Performance Analytics",
+      "Sustainability",
+      "Waste Reduction"
+    ],
+    "evaluation": {
+      "crisis_management_score": 71.38,
+      "sustainability_score": 87.55,
+      "team_motivation_score": 73.28,
+      "total_score": 77.4
+    }
+  },
+  {
+    "id": 14,
+    "name": "Harsh Shetty",
+    "email": "harsh.shetty@email.com",
+    "phone": "+91-32007-44971",
+    "years_experience": 21,
+    "education": "Master of Business Administration (MBA)",
+    "certifications": [
+      "Project Management Professional (PMP)",
+      "LEED Green Associate",
+      "Zero Waste Certification"
+    ],
+    "skills": [
+      "Conflict Resolution",
+      "Waste Reduction",
+      "Safety Management",
+      "Recycling Technology",
+      "Sustainability",
+      "Process Optimization",
+      "Performance Analytics"
+    ],
+    "evaluation": {
+      "crisis_management_score": 92.75,
+      "sustainability_score": 63.56,
+      "team_motivation_score": 75.3,
+      "total_score": 77.2
+    }
+  },
+  {
+    "id": 18,
+    "name": "Nisha Khanna",
+    "email": "nisha.khanna@email.com",
+    "phone": "+91-43288-82616",
+    "years_experience": 23,
+    "education": "Master of Science in Sustainability",
+    "certifications": [
+      "Certified Recycling Professional (CRP)",
+      "Six Sigma Green Belt",
+      "Lean Manufacturing Certification",
+      "Zero Waste Certification"
+    ],
+    "skills": [
+      "Team Leadership",
+      "Performance Analytics",
+      "Quality Control",
+      "Sustainability",
+      "Process Optimization",
+      "Budget Management",
+      "Crisis Management"
+    ],
+    "evaluation": {
+      "crisis_management_score": 82.33,
+      "sustainability_score": 77.15,
+      "team_motivation_score": 71.64,
+      "total_score": 77.04
+    }
+  },
+  {
+    "id": 35,
+    "name": "Raghav Chatterjee",
+    "email": "raghav.chatterjee@email.com",
+    "phone": "+91-06853-69302",
+    "years_experience": 6,
+    "education": "Bachelor of Science in Environmental Engineering",
+    "certifications": [
+      "Project Management Professional (PMP)",
+      "ISO 14001 Environmental Management",
+      "LEED Green Associate",
+      "Lean Manufacturing Certification"
+    ],
+    "skills": [
+      "Regulatory Compliance",
+      "Conflict Resolution",
+      "Safety Management",
+      "Performance Analytics",
+      "Recycling Technology",
+      "Quality Control"
+    ],
+    "evaluation": {
+      "crisis_management_score": 79.51,
+      "sustainability_score": 64.76,
+      "team_motivation_score": 82.48,
+      "total_score": 75.58
+    }
+  },
+  {
+    "id": 10,
+    "name": "Priya Joshi",
+    "email": "priya.joshi@email.com",
+    "phone": "+91-34140-63114",
+    "years_experience": 23,
+    "education": "Bachelor of Science in Business Administration",
+    "certifications": [
+      "Project Management Professional (PMP)",
+      "Lean Manufacturing Certification"
+    ],
+    "skills": [
+      "Conflict Resolution",
+      "Process Optimization",
+      "Regulatory Compliance",
+      "Team Leadership",
+      "Quality Control",
+      "Budget Management",
+      "Recycling Technology",
+      "Safety Management"
+    ],
+    "evaluation": {
+      "crisis_management_score": 85.33,
+      "sustainability_score": 69.74,
+      "team_motivation_score": 66.55,
+      "total_score": 73.87
+    }
+  },
+  {
+    "id": 25,
+    "name": "Neha Agarwal",
+    "email": "neha.agarwal@email.com",
+    "phone": "+91-09013-24209",
+    "years_experience": 9,
+    "education": "Bachelor of Science in Environmental Engineering",
+    "certifications": [
+      "Six Sigma Green Belt",
+      "Project Management Professional (PMP)"
+    ],
+    "skills": [
+      "Budget Management",
+      "Performance Analytics",
+      "Crisis Management",
+      "Team Leadership",
+      "Safety Management",
+      "Regulatory Compliance"
+    ],
+    "evaluation": {
+      "crisis_management_score": 70.97,
+      "sustainability_score": 79.95,
+      "team_motivation_score": 70.25,
+      "total_score": 73.72
+    }
+  },
+  {
+    "id": 34,
+    "name": "Diya Joshi",
+    "email": "diya.joshi@email.com",
+    "phone": "+91-90615-87842",
+    "years_experience": 1,
+    "education": "Master of Science in Sustainability",
+    "certifications": [
+      "ISO 14001 Environmental Management",
+      "Zero Waste Certification"
+    ],
+    "skills": [
+      "Waste Reduction",
+      "Safety Management",
+      "Regulatory Compliance",
+      "Budget Management",
+      "Process Optimization",
+      "Recycling Technology",
+      "Sustainability",
+      "Performance Analytics"
+    ],
+    "evaluation": {
+      "crisis_management_score": 65.42,
+      "sustainability_score": 72.71,
+      "team_motivation_score": 82.5,
+      "total_score": 73.54
+    }
+  },
+  {
+    "id": 9,
+    "name": "Karan Saxena",
+    "email": "karan.saxena@email.com",
+    "phone": "+91-24963-44408",
+    "years_experience": 19,
+    "education": "Bachelor of Science in Chemical Engineering",
+    "certifications": [
+      "Zero Waste Certification",
+      "Certified Recycling Professional (CRP)",
+      "OSHA Safety Certification",
+      "ISO 14001 Environmental Management"
+    ],
+    "skills": [
+      "Crisis Management",
+      "Process Optimization",
+      "Performance Analytics",
+      "Quality Control"
+    ],
+    "evaluation": {
+      "crisis_management_score": 73.28,
+      "sustainability_score": 81.56,
+      "team_motivation_score": 65.62,
+      "total_score": 73.49
+    }
+  },
+  {
+    "id": 6,
+    "name": "Divya Jain",
+    "email": "divya.jain@email.com",
+    "phone": "+91-27938-02078",
+    "years_experience": 24,
+    "education": "Bachelor of Science in Mechanical Engineering",
+    "certifications": [
+      "LEED Green Associate",
+      "Lean Manufacturing Certification",
+      "Project Management Professional (PMP)",
+      "ISO 14001 Environmental Management"
+    ],
+    "skills": [
+      "Waste Reduction",
+      "Budget Management",
+      "Process Optimization",
+      "Safety Management"
+    ],
+    "evaluation": {
+      "crisis_management_score": 66.36,
+      "sustainability_score": 86.29,
+      "team_motivation_score": 61.01,
+      "total_score": 71.22
+    }
+  },
+  {
+    "id": 13,
+    "name": "Zara Banerjee",
+    "email": "zara.banerjee@email.com",
+    "phone": "+91-65426-61938",
+    "years_experience": 16,
+    "education": "Bachelor of Science in Mechanical Engineering",
+    "certifications": [
+      "ISO 14001 Environmental Management",
+      "Six Sigma Green Belt",
+      "Lean Manufacturing Certification"
+    ],
+    "skills": [
+      "Regulatory Compliance",
+      "Crisis Management",
+      "Process Optimization",
+      "Sustainability",
+      "Budget Management",
+      "Conflict Resolution"
+    ],
+    "evaluation": {
+      "crisis_management_score": 62.41,
+      "sustainability_score": 81.5,
+      "team_motivation_score": 68.81,
+      "total_score": 70.91
+    }
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "candidate-generator",
+  "version": "1.0.0",
+  "description": "Generate realistic candidate profiles using Faker.js",
+  "type": "module",
+  "main": "generate-candidates.js",
+  "scripts": {
+    "generate": "node generate-candidates.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
