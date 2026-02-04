@@ -43,12 +43,12 @@ Please evaluate this response using the following rubric and provide a score out
 **Total Score: /100**
 
 ### Ideal Response Elements
-- ✅ Immediate evacuation and headcount verification
-- ✅ Fire department and hazmat team notification
-- ✅ Client communication about processing delays
-- ✅ Root cause analysis (lithium battery screening failure)
-- ✅ Implementation of enhanced battery detection systems
-- ✅ Staff training on hazardous material identification
+-  Immediate evacuation and headcount verification
+-  Fire department and hazmat team notification
+-  Client communication about processing delays
+-  Root cause analysis (lithium battery screening failure)
+-  Implementation of enhanced battery detection systems
+-  Staff training on hazardous material identification
 
 ---
 
@@ -90,13 +90,13 @@ Please evaluate using the rubric below and provide a score out of 100:
 **Total Score: /100**
 
 ### Ideal Response Elements
-- ✅ Source separation education programs
-- ✅ AI-powered optical sorting technology
-- ✅ Solar panel installation with 3-5 year payback
-- ✅ LED lighting retrofit with immediate savings
-- ✅ Composting program for organic contamination
-- ✅ Partnership with manufacturers for closed-loop recycling
-- ✅ Monthly contamination audits and dashboards
+-  Source separation education programs
+-  AI-powered optical sorting technology
+-  Solar panel installation with 3-5 year payback
+-  LED lighting retrofit with immediate savings
+-  Composting program for organic contamination
+-  Partnership with manufacturers for closed-loop recycling
+-  Monthly contamination audits and dashboards
 
 ---
 
@@ -143,14 +143,14 @@ Please evaluate using the rubric below and provide a score out of 100:
 **Total Score: /100**
 
 ### Ideal Response Elements
-- ✅ One-on-one listening sessions with all team members
-- ✅ Safety improvement task force
-- ✅ Monthly town halls with transparent communication
-- ✅ Recognition program (Employee of the Month, safety awards)
-- ✅ Career development pathways (operator → lead → supervisor)
-- ✅ Language training programs for diverse workforce
-- ✅ Team-building activities and shift competitions
-- ✅ Quarterly engagement surveys with action plans
+-  One-on-one listening sessions with all team members
+-  Safety improvement task force
+-  Monthly town halls with transparent communication
+-  Recognition program (Employee of the Month, safety awards)
+-  Career development pathways (operator → lead → supervisor)
+-  Language training programs for diverse workforce
+-  Team-building activities and shift competitions
+-  Quarterly engagement surveys with action plans
 
 ---
 
